@@ -1,0 +1,30 @@
+{
+  "name": "contextual-harmony-core",
+  "version": "1.0.0",
+  "description": "> *“Software should respect human cognitive flow, protect emotional sanctuaries, and govern AI autonomy through architectural grace rather than brute-force disruption.”*",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dahlstromjr-tech/contextual-harmony-core.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dahlstromjr-tech/contextual-harmony-core/issues"
+  },
+  "homepage": "https://github.com/dahlstromjr-tech/contextual-harmony-core#readme",
+  "devDependencies": {
+    "@types/jest": "^30.0.0",
+    "jest": "^30.5.2",
+    "ts-jest": "^29.4.15",
+    "typescript": "^5.5.4"
+  }
+}
